@@ -83,7 +83,7 @@ npm start
 
 - [React](https://pt-br.reactjs.org/)
 - [Redux](https://redux.js.org/)
-- [Styled-Components](https://styled-components.com/)
+- [Styled Components](https://styled-components.com/)
 - [Axios](https://alligator.io/react/axios-react/)
 - [Material ui](https://material-ui.com/pt/)
 

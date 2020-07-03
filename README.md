@@ -83,6 +83,7 @@ npm start
 
 ## Linguagens, dependencias e libs utilizadas :books:
 
+- [Node](https://nodejs.org/en/download/)
 - [React](https://pt-br.reactjs.org/)
 - [Redux](https://redux.js.org/)
 - [Styled Components](https://styled-components.com/)

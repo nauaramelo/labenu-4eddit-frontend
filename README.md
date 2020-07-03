@@ -61,7 +61,9 @@ Essa página só pode ser acessada por um usuário logado. Caso o usuário não 
 
 ## Pré-requisitos
 
-:warning: [React](https://pt-br.reactjs.org/)
+:warning: [Node](https://nodejs.org/en/download/)
+
+:warning: [Npm](https://www.npmjs.com/)
 
 ## Como rodar a aplicação :arrow_forward:
 

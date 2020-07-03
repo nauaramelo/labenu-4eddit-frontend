@@ -97,6 +97,6 @@ npm start
 
 ## Licença 
 
-[MIT License](https://opensource.org/licenses/MIT)
+[MIT License](https://github.com/nauaramelo/labenu-4eddit-frontend/blob/master/LICENSE)
 
 Copyright :copyright: 2020 - 4eddit
